@@ -2,11 +2,11 @@
 //  FabricTwitterKit.m
 //  FabricTwitterKit
 //
-//  Created by Trevor Porter on 8/1/16.
-//  Copyright © 2016 Trevor Porter. All rights reserved.
+//  Created by Garrett Mac on 6/20/17.
+//  Copyright © 2017 Garrett Mac. All rights reserved.
 //
 //  Modifications:
-//  Copyright (C) 2016 Sony Interactive Entertainment Inc.
+//  Copyright (C) 2017 Sony Interactive Entertainment Inc.
 //  Licensed under the MIT License. See the LICENSE file in the project root for license information.
 
 #import "FabricTwitterKit.h"
